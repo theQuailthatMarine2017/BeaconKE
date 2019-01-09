@@ -1,0 +1,6 @@
+framework module Pods_Get_Promos {
+  umbrella header "Pods-Get Promos-umbrella.h"
+
+  export *
+  module * { export * }
+}
